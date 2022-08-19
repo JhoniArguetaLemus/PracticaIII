@@ -1,0 +1,15 @@
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/bin/Debug/net6.0/PracticaIII
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/bin/Debug/net6.0/PracticaIII.deps.json
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/bin/Debug/net6.0/PracticaIII.runtimeconfig.json
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/bin/Debug/net6.0/PracticaIII.dll
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/bin/Debug/net6.0/PracticaIII.pdb
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.csproj.AssemblyReference.cache
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.AssemblyInfoInputs.cache
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.AssemblyInfo.cs
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.csproj.CoreCompileInputs.cache
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.dll
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/refint/PracticaIII.dll
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.pdb
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/PracticaIII.genruntimeconfig.cache
+/Users/josejhonisarguetalemus/Documents/C#/PracticaIII/PracticaIII/obj/Debug/net6.0/ref/PracticaIII.dll
